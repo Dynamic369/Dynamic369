@@ -8,6 +8,9 @@ on:
 jobs:
   generate_snake:
     runs-on: ubuntu-latest
+    permissions: 
+      contents: write # This line is the fix!
+
     steps:
       - uses: actions/checkout@v2
 
