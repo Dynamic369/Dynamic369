@@ -3,7 +3,7 @@
   
 
   <p align="center">
-    <img src="https://raw.githubusercontent.com/Dynamic369/Dynamic369/refs/heads/output/github-contribution-grid-snake.svg" />
+    <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" />
   </p>
   
   <p align="center">
@@ -50,6 +50,9 @@ Here are some of the technologies and tools I work with:
 ---
 
 ### GitHub Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dynamic369&theme=onedark" alt="GitHub Streak Stats" />
+</p>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Dynamic369&show_icons=true&theme=onedark" alt="Pradum's GitHub Stats"/>
