@@ -50,12 +50,13 @@ Here are some of the technologies and tools I work with:
 ---
 
 ### GitHub Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dynamic369&theme=onedark" alt="GitHub Streak Stats" />
-</p>
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Dynamic369&show_icons=true&theme=onedark" alt="Pradum's GitHub Stats"/>
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dynamic369&layout=compact&theme=onedark" alt="Top Languages"/>
+  <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dynamic369&theme=onedark" alt="GitHub Streak Stats" />
+</p>
 </div>
