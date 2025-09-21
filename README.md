@@ -1,10 +1,10 @@
 <div align="center">
   <h1 align="center">Hi there, I'm Pradum Gupta 👋</h1>
-  ### 🐍 My GitHub Activity Snake
+  
 
-<p align="center">
-  <img src="https://github.com/Dynamic369/Dynamic369/blob/output/github-contribution-grid-snake-dark.svg" alt="github-snake" />
-</p>
+  <p align="center">
+    <img src="https://github.com/Dynamic369/Dynamic369/blob/output/github-contribution-grid-snake-dark.svg" alt="github-snake" />
+  </p>
   
   <p align="center">
     Data Scientist with a passion for building intelligent systems. <br/> 
