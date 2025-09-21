@@ -3,7 +3,7 @@
   
 
   <p align="center">
-    <img src="[https://github.com/Dynamic369/Dynamic369/blob/output/github-contribution-grid-snake-dark.svg" alt="github-snake](https://raw.githubusercontent.com/Dynamic369/Dynamic369/refs/heads/output/github-contribution-grid-snake.svg)" />
+    <img src="https://github.com/Dynamic369/Dynamic369/blob/output/github-contribution-grid-snake-dark.svg" alt="github-snake](https://raw.githubusercontent.com/Dynamic369/Dynamic369/refs/heads/output/github-contribution-grid-snake.svg" />
   </p>
   
   <p align="center">
